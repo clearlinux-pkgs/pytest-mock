@@ -4,7 +4,7 @@
 #
 Name     : pytest-mock
 Version  : 3.6.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/b3/08/b131e1b5c628a7d46c9b8d676a86a8d235bced79b9d90845500e39df81b9/pytest-mock-3.6.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b3/08/b131e1b5c628a7d46c9b8d676a86a8d235bced79b9d90845500e39df81b9/pytest-mock-3.6.1.tar.gz
 Summary  : Thin-wrapper around the mock package for easier use with pytest
